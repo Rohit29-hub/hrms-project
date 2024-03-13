@@ -22,6 +22,7 @@ DerivedData
 *.xcuserstate
 ios/.xcode.env.local
 .env
+./env
 
 # Android/IntelliJ
 #
@@ -38,6 +39,7 @@ local.properties
 # node.js
 #
 node_modules/
+
 npm-debug.log
 yarn-error.log
 
@@ -67,6 +69,4 @@ yarn-error.log
 /coverage
 
 
-# env
-.env
-./env
+
